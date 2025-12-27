@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧑‍💻 Diyaeddin Habdo - Full Stack Developer Portfolio
 
 Welcome to my personal developer portfolio website!  
@@ -46,3 +47,6 @@ Graduation Year: **2025**
 ---
 
 > Built with ❤️ using React and deployed via GitHub Pages.
+=======
+# portfolio
+>>>>>>> fb7902f4acdbbf80eec040c29c6ed86c2a596a6e
