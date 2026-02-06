@@ -3,7 +3,7 @@
 Welcome to my personal developer portfolio website!  
 This site showcases my background, technical skills, and selected projects.
 
-🔗 **Live Website:** [abdurrezzakekidi.infinityfree.me](https://abdurrezzakekidi.infinityfree.me)
+🔗 **Live Website:** [abdurrezzakekidi.github.io](https://abdurrezzakekidi.github.io/portfolio/)
 
 ## 📬 Contact
 
