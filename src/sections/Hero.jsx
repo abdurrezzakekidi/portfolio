@@ -65,9 +65,9 @@ const Hero = () => {
               View Projects
             </button>
             <a 
-              href="/AbdurrezzakEkidiCV.pdf" 
+              href="https://raw.githubusercontent.com/abdurrezzakekidi/portfolio/main/public/AbdurrezzakEkidiCV.pdf" 
               className="btn btn-secondary"
-              download="AbdurrezzakEkidiCV.pdf"
+              download={true}
             >
               <FileDown size={20} />
               Download CV

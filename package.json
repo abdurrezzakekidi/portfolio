@@ -2,12 +2,15 @@
   "name": "abdurrezzak-portfolio",
   "version": "1.0.0",
   "description": "Modern Portfolio Website for Abdurrezzak Ekidi",
+  "homepage": "https://abdurezzakekidi.github.io/portfolio",
   "private": true,
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.2.0",
